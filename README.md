@@ -1,4 +1,4 @@
-# GitHub Pages Demo -- Pinyi was here
+# GitHub Pages Demo -- Pinyi was here v2
 
 ## :bulb: [What is GitHub Pages?](https://docs.github.com/en/github/working-with-github-pages/about-github-pages)
 
